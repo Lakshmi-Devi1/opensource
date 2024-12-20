@@ -5,7 +5,6 @@ Many college students struggle with organizing their study schedules and managin
 
 **Solution:**
 Develop a web application that helps students create personalized study schedules, set task-based reminders, and receive smart suggestions to optimize their study time. The goal is to provide a centralized platform for students to plan, track, and optimize their academic workload.
-
 **Tech Stack:**
 - **Frontend:** React.js
 - **Backend:** Node.js/Express.js
